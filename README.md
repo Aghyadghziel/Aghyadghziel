@@ -2,7 +2,7 @@
 
 ## 📫 Connect with me:
 
-[![LinkedIn](https://img.shields.io/badge/-aghyadghziel-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aghyad-ghziel/)](https://www.linkedin.com/in/aghyad-ghziel/)
+[![LinkedIn](https://img.shields.io/badge/-aghyadghziel-blue?style=flat-square&logo=Linkedin&logoColor=white&link=[https://www.linkedin.com/in/aghyad-ghziel](https://www.linkedin.com/in/aghyadghziel/)/)](https://www.linkedin.com/in/aghyad-ghziel/)
 [![Instagram](https://img.shields.io/badge/-aghyad__ghziel-e4405f?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/aghyad_ghziel/)](https://www.instagram.com/aghyad_ghziel/)
 
 ## 🔧 Technologies and Tools:
