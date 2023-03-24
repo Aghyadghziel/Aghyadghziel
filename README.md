@@ -1,4 +1,4 @@
-# Hi there 👋, I'm Aghyad Ghziel, a passionate Web Developer!
+# Hi there 👋, I'm Aghyad Ghziel, a Front-end Web Developer!
 
 ## 📫 Connect with me:
 
@@ -7,19 +7,19 @@
 
 ## 🔧 Technologies and Tools:
 
-![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular)
-![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript)
 ![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
 ![Sass](https://img.shields.io/badge/-Sass-pink?style=flat-square&logo=sass)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css)
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript)
+![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
+![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular)
+![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![Figma](https://img.shields.io/badge/-Figma-ffbaba?style=flat-square&logo=figma)
 ![Adobe Photoshop](https://img.shields.io/badge/-Adobe_Photoshop-31A8FF?style=flat-square&logo=adobe-photoshop)
 ![Adobe Illustrator](https://img.shields.io/badge/-Adobe_Illustrator-FF9A00?style=flat-square&logo=adobe-illustrator)
-![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![PHP](https://img.shields.io/badge/-PHP-787CB5?style=flat-square&logo=php)
 ![Python](https://img.shields.io/badge/-Python-306998?style=flat-square&logo=python)
 
@@ -29,4 +29,4 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aghyadghziel&hide=java,html,css&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 <a href="https://github.com/aghyadghziel">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=aghyadghziel&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=aghyadghziel&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color
