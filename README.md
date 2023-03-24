@@ -7,7 +7,7 @@
 
 ## 👨🏻‍💻 About Me
 
-I am a Frontend Web Developer with a passion for creating beautiful and functional websites. With expertise in JavaScript and React, I am constantly pushing myself to learn and improve my skills to deliver the best possible product. I take pride in my work and strive to always exceed client expectations.
+I am an experienced Frontend Web Developer with a proven track record of delivering high-quality, websites. My passion lies in creating beautiful and functional websites that exceed client expectations.
 
 
 ## 🚀 Skills
