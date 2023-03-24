@@ -1,15 +1,24 @@
 <h1 align="center">Hi there 👋, I'm Aghyad Ghziel, a passionate Web Developer!</h1>
 
-## 📫 Connect with me:
-
-[![LinkedIn](https://img.shields.io/badge/-aghyadghziel-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aghyadghziel/)](https://www.linkedin.com/in/aghyadghziel/)
-[![Instagram](https://img.shields.io/badge/-aghyad__ghziel-e4405f?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/aghyad_ghziel/)](https://www.instagram.com/aghyad_ghziel/)
-
 ## 👨🏻‍💻 About Me
 
 I am a Frontend Web Developer with a passion for creating beautiful and functional websites. With expertise in JavaScript and React, I am constantly pushing myself to learn and improve my skills to deliver the best possible product. I take pride in my work and strive to always exceed client expectations.
 
-## 🔧 Technologies and Tools:
+## 🌟 Skills
+
+- JavaScript
+- React
+- HTML5
+- CSS3
+- Sass
+- Bootstrap
+- Tailwind CSS
+- Figma
+- Adobe Photoshop
+- Adobe Illustrator
+- Git
+
+## 🔨 Tools & Technologies
 
 ![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular)
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
@@ -27,7 +36,12 @@ I am a Frontend Web Developer with a passion for creating beautiful and function
 ![PHP](https://img.shields.io/badge/-PHP-787CB5?style=flat-square&logo=php)
 ![Python](https://img.shields.io/badge/-Python-306998?style=flat-square&logo=python)
 
-## &#x1f4c8; GitHub Stats
+## 📫 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/-aghyadghziel-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aghyadghziel/)](https://www.linkedin.com/in/aghyadghziel/)
+[![Instagram](https://img.shields.io/badge/-aghyad__ghziel-e4405f?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/aghyad_ghziel/)](https://www.instagram.com/aghyad_ghziel/)
+
+## 📈 GitHub Stats
 
 <a href="https://github.com/aghyadghziel">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aghyadghziel&hide=java,html,css&title_color=ffffff&text_color
+  <img align="center" src="https://github-readme-stats.vercel.app/api
