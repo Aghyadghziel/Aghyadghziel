@@ -9,11 +9,6 @@
 
 I am a Frontend Web Developer with a passion for creating beautiful and functional websites. With expertise in JavaScript and React, I am constantly pushing myself to learn and improve my skills to deliver the best possible product. I take pride in my work and strive to always exceed client expectations.
 
-## 📈 My Stats
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aghyadghziel&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-![Aghyad Ghziel's GitHub stats](https://github-readme-stats.vercel.app/api?username=aghyadghziel&show_icons=true&theme=radical)
 
 ## 🚀 Skills
 
@@ -36,3 +31,10 @@ I am a Frontend Web Developer with a passion for creating beautiful and function
 ![Adobe Photoshop](https://img.shields.io/badge/-Adobe_Photoshop-31A8FF?style=flat-square&logo=adobe-photoshop)
 ![Adobe Illustrator](https://img.shields.io/badge/-Adobe_Illustrator-FF9A00?style=flat-square&logo=adobe-illustrator)
 ![Git](https://img.shields.io/badge/-
+
+## 📈 My Stats
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aghyadghziel&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+![Aghyad Ghziel's GitHub stats](https://github-readme-stats.vercel.app/api?username=aghyadghziel&show_icons=true&theme=radical)
+
