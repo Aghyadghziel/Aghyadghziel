@@ -1,12 +1,20 @@
-### Hi there 👋, I'm Aghyad Ghziel, a passionate Frontend Developer!
+<h1 align="center">Hi there 👋, I'm Aghyad Ghziel, a passionate Web Developer!</h1>
 
-📫 Connect with me:
+## 📫 Connect with me:
+
 [![LinkedIn](https://img.shields.io/badge/-aghyadghziel-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aghyadghziel/)](https://www.linkedin.com/in/aghyadghziel/)
 [![Instagram](https://img.shields.io/badge/-aghyad__ghziel-e4405f?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/aghyad_ghziel/)](https://www.instagram.com/aghyad_ghziel/)
 
-🔧 Technologies and Tools:
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+## 👨🏻‍💻 About Me
+
+I am a Frontend Web Developer with a passion for creating beautiful and functional websites. With expertise in JavaScript and React, I am constantly pushing myself to learn and improve my skills to deliver the best possible product. I take pride in my work and strive to always exceed client expectations.
+
+## 🔧 Technologies and Tools:
+
+![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular)
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript)
 ![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
 ![Sass](https://img.shields.io/badge/-Sass-pink?style=flat-square&logo=sass)
@@ -16,13 +24,10 @@
 ![Adobe Photoshop](https://img.shields.io/badge/-Adobe_Photoshop-31A8FF?style=flat-square&logo=adobe-photoshop)
 ![Adobe Illustrator](https://img.shields.io/badge/-Adobe_Illustrator-FF9A00?style=flat-square&logo=adobe-illustrator)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+![PHP](https://img.shields.io/badge/-PHP-787CB5?style=flat-square&logo=php)
+![Python](https://img.shields.io/badge/-Python-306998?style=flat-square&logo=python)
 
-📊 Stats:
-![Github stats](https://github-readme-stats.vercel.app/api?username=aghyadghziel&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aghyadghziel&layout=compact&theme=radical)
+## &#x1f4c8; GitHub Stats
 
-💻 Skills:
-[![React](https://img.shields.io/badge/-React-61dafb?style=for-the-badge&logo=React&logoColor=black)](https://reactjs.org/)
-[![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3)](https://developer.mozilla.org/en-US/docs/Web/CSS)
-[![HTML5](https://img.shields.io/badge/-HTML5-red?style=for-the-badge&logo=HTML5)](https://developer.mozilla.org/en-US/docs/Glossary/HTML5)
-[![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=for-the-badge&logo=javascript)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+<a href="https://github.com/aghyadghziel">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aghyadghziel&hide=java,html,css&title_color=ffffff&text_color
