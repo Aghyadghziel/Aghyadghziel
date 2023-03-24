@@ -30,7 +30,9 @@ I am a Frontend Web Developer with a passion for creating beautiful and function
 ![Figma](https://img.shields.io/badge/-Figma-ffbaba?style=flat-square&logo=figma)
 ![Adobe Photoshop](https://img.shields.io/badge/-Adobe_Photoshop-31A8FF?style=flat-square&logo=adobe-photoshop)
 ![Adobe Illustrator](https://img.shields.io/badge/-Adobe_Illustrator-FF9A00?style=flat-square&logo=adobe-illustrator)
-![Git](https://img.shields.io/badge/-
+![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+![Visual Studio Code](https://img.shields.io/badge/-Visual_Studio_Code-007ACC?style=flat-square&logo=visual-studio-code)
 
 ## 📈 My Stats
 
