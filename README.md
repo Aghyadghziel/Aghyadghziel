@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Aghyad, a Wb Developer!</h1>
+<h1 align="center">Hi 👋, I'm Aghyad, a Web Developer!</h1>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/aghyadghziel/"><img src="https://img.shields.io/badge/-aghyadghziel-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aghyadghziel/" alt="LinkedIn"></a>
