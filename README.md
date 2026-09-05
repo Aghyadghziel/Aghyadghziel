@@ -34,9 +34,9 @@ Design tools are part of how I work rather than someone else's job — I'm comfo
 
 ### Currently
 
-- **Building** — [project name], [one line on what it is]
-- **Learning** — [what you're picking up right now]
-- **Open to** — freelance frontend work and collaborations
+- **Building** — Modern web experiences with Next.js, React, TypeScript, and AI-powered tools.
+- **Learning** — Exploring better ways to build scalable products, improve UX, and leverage AI in the development workflow.
+- **Open to** — Frontend opportunities, and collaborations with ambitious teams.
 
 ---
 
@@ -52,15 +52,7 @@ Design tools are part of how I work rather than someone else's job — I'm comfo
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=aghyadghziel&show_icons=true&include_all_commits=true&hide_border=true&bg_color=00000000&title_color=2F81F7&text_color=8B949E&icon_color=2F81F7">
-  <img src="https://github-readme-stats.vercel.app/api?username=aghyadghziel&show_icons=true&include_all_commits=true&hide_border=true&bg_color=00000000&title_color=0969DA&text_color=59636E&icon_color=0969DA" alt="Aghyad's GitHub stats" height="165">
-</picture>
-&nbsp;
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=aghyadghziel&layout=compact&langs_count=8&hide_border=true&bg_color=00000000&title_color=2F81F7&text_color=8B949E">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aghyadghziel&layout=compact&langs_count=8&hide_border=true&bg_color=00000000&title_color=0969DA&text_color=59636E" alt="Most used languages" height="165">
-</picture>
+
 
 </div>
 
