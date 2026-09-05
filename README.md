@@ -4,7 +4,7 @@
 
 **Frontend developer** — React, TypeScript, and interfaces that hold up in the real world.
 
-[LinkedIn](https://www.linkedin.com/in/aghyadghziel/) · [Instagram](https://www.instagram.com/aghyad_ghziel/) · [Email](mailto:YOUR@EMAIL.COM)
+[LinkedIn](https://www.linkedin.com/in/aghyadghziel/) · [Portfolio]([https://www.instagram.com/aghyad_ghziel/](https://www.aghyadghziel.com/)) · [Email](mailto:aghyadghziel@gmail.COM)
 
 </div>
 
