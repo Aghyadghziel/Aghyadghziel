@@ -41,7 +41,7 @@ Design tools are part of how I work rather than someone else's job — I'm comfo
 ---
 
 
-<div align="center">
+
 
 
 
