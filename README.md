@@ -40,15 +40,6 @@ Design tools are part of how I work rather than someone else's job — I'm comfo
 
 ---
 
-### GitHub
-
-<!--
-  These cards use the public github-readme-stats instance, which is often rate-limited
-  (it was returning 503 when this file was written — that affects everyone using it).
-  For cards that always load: fork github.com/anuraghazra/github-readme-stats, deploy it
-  to Vercel with a GitHub token, then replace "github-readme-stats.vercel.app" below
-  with your own deployment URL. Takes about five minutes.
--->
 
 <div align="center">
 
