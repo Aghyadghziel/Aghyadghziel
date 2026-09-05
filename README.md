@@ -38,7 +38,7 @@ Design tools are part of how I work rather than someone else's job — I'm comfo
 - **Learning** — Exploring better ways to build scalable products, improve UX, and leverage AI in the development workflow.
 - **Open to** — Frontend opportunities, and collaborations with ambitious teams.
 
----
+
 
 
 
